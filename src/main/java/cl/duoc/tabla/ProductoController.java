@@ -75,7 +75,7 @@ public class ProductoController {
 
             // Agregamos el alumno a la lista observable.
             productos.add(new Producto(nombre, categoria, precio));
-
+             //comentario
             // Limpiamos los campos.
             txtNombre.clear();
             txtCategoria.clear();
